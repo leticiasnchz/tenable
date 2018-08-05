@@ -1,0 +1,124 @@
+{
+  "configurations":[
+    {
+      "name": "host1",
+      "hostname": "nessus-ntp.lab.com",
+      "port": 1241,
+      "username": "toto"
+    },
+    {
+      "name": "host2",
+      "hostname": "nessus-xml.lab.com",
+      "port": 3384,
+      "username": "admin"
+    },
+    {
+      "name": "host3",
+      "hostname": "host3.lab.com",
+      "port": 8080,
+      "username": "user3"
+    },
+    {
+      "name": "host4",
+      "hostname": "host4.lab.com",
+      "port": 8080,
+      "username": "user4"
+    },
+    {
+      "name": "host5",
+      "hostname": "host5.lab.com",
+      "port": 8080,
+      "username": "user5"
+    },
+    {
+      "name": "host6",
+      "hostname": "host6.lab.com",
+      "port": 8080,
+      "username": "user6"
+    },
+    {
+      "name": "host7",
+      "hostname": "host7.lab.com",
+      "port": 8080,
+      "username": "user7"
+    },
+    {
+      "name": "host8",
+      "hostname": "host8.lab.com",
+      "port": 8080,
+      "username": "user8"
+    },
+    {
+      "name": "host9",
+      "hostname": "host9.lab.com",
+      "port": 8080,
+      "username": "user9"
+    },
+    {
+      "name": "host10",
+      "hostname": "host10.lab.com",
+      "port": 8080,
+      "username": "user10"
+    },
+    {
+      "name": "host11",
+      "hostname": "host11.lab.com",
+      "port": 8080,
+      "username": "user11"
+    },
+    {
+      "name": "host12",
+      "hostname": "host12.lab.com",
+      "port": 8080,
+      "username": "user12"
+    },
+    {
+      "name": "host13",
+      "hostname": "host13.lab.com",
+      "port": 8080,
+      "username": "user13"
+    },
+    {
+      "name": "host14",
+      "hostname": "host14.lab.com",
+      "port": 8080,
+      "username": "user14"
+    },
+    {
+      "name": "host15",
+      "hostname": "host15.lab.com",
+      "port": 8080,
+      "username": "user15"
+    },
+    {
+      "name": "host16",
+      "hostname": "host16.lab.com",
+      "port": 8080,
+      "username": "user16"
+    },
+    {
+      "name": "host17",
+      "hostname": "host17.lab.com",
+      "port": 8080,
+      "username": "user17"
+    },
+    {
+      "name": "host18",
+      "hostname": "host18.lab.com",
+      "port": 8080,
+      "username": "user18"
+    },
+    {
+      "name": "host19",
+      "hostname": "host19.lab.com",
+      "port": 8080,
+      "username": "user19"
+    },
+    {
+      "name": "host20",
+      "hostname": "host20.lab.com",
+      "port": 8080,
+      "username": "user20"
+    }
+  ]
+}
